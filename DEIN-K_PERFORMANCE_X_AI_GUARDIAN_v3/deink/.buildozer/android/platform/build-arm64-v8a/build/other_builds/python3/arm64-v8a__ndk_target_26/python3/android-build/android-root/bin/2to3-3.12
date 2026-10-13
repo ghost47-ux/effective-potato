@@ -1,0 +1,5 @@
+#!/workspaces/effective-potato/DEIN-K_PERFORMANCE_X_AI_GUARDIAN_v3/deink/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_26/python3/android-build/android-root/bin/python3.12
+import sys
+from lib2to3.main import main
+
+sys.exit(main("lib2to3.fixes"))

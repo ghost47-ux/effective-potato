@@ -1,0 +1,5 @@
+#!/workspaces/effective-potato/DEIN-K_PERFORMANCE_X_AI_GUARDIAN_v3/deink/.buildozer/android/platform/build-arm64-v8a/build/other_builds/python3/arm64-v8a__ndk_target_26/python3/android-build/android-root/bin/python3.12
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
